@@ -1,6 +1,11 @@
-.signup_div .surfbusiness{
+.signup_div{
     text-align:center;
     margin: 5vh 20vh 5vh 20vh ;  
+}
+
+.surfbusiness{
+  text-align:center;
+  margin: 5vh 20vh 5vh 20vh ;  
 }
 
 .banner{
